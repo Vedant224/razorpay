@@ -1,2 +1,2 @@
 # razorpay
-Razorpay clone using tailwind css
+Razorpay ui clone using tailwind css
