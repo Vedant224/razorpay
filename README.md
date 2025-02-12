@@ -17,8 +17,8 @@ This is a UI clone of the Razorpay website built using React and Tailwind CSS. T
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/Vedant224/razorpay-ui-clone.git
-cd razorpay-ui-clone
+git clone https://github.com/Vedant224/razorpay.git
+cd razorpay
 ```
 
 ### 2. Install dependencies:
@@ -44,12 +44,6 @@ Example for Vercel:
 npm install -g vercel
 vercel
 ```
-
-## Screenshots
-
-![Screenshot 1](#)
-![Screenshot 2](#)
-![Screenshot 3](#)
 
 ## Author
 Developed by Vedant Hande ([Vedant224](https://github.com/Vedant224))
